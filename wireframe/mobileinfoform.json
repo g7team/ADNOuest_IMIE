@@ -1,0 +1,262 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "1",
+                    "typeID": "AndroidPhone",
+                    "zOrder": "0",
+                    "measuredW": "356",
+                    "measuredH": "725",
+                    "x": "343",
+                    "y": "27",
+                    "properties": {
+                        "resizing": "stretch"
+                    }
+                },
+                {
+                    "ID": "2",
+                    "typeID": "AppBar",
+                    "zOrder": "1",
+                    "w": "314",
+                    "h": "44",
+                    "measuredW": "320",
+                    "measuredH": "44",
+                    "x": "364",
+                    "y": "130"
+                },
+                {
+                    "ID": "3",
+                    "typeID": "Button",
+                    "zOrder": "2",
+                    "measuredW": "61",
+                    "measuredH": "27",
+                    "x": "565",
+                    "y": "227",
+                    "properties": {
+                        "text": "passe"
+                    }
+                },
+                {
+                    "ID": "6",
+                    "typeID": "SubTitle",
+                    "zOrder": "3",
+                    "measuredW": "191",
+                    "measuredH": "28",
+                    "x": "419",
+                    "y": "199",
+                    "properties": {
+                        "text": "A propos de vous"
+                    }
+                },
+                {
+                    "ID": "7",
+                    "typeID": "Label",
+                    "zOrder": "4",
+                    "measuredW": "24",
+                    "measuredH": "21",
+                    "x": "398",
+                    "y": "279",
+                    "properties": {
+                        "text": "Age"
+                    }
+                },
+                {
+                    "ID": "8",
+                    "typeID": "TextInput",
+                    "zOrder": "5",
+                    "measuredW": "79",
+                    "measuredH": "27",
+                    "x": "549",
+                    "y": "276"
+                },
+                {
+                    "ID": "9",
+                    "typeID": "Label",
+                    "zOrder": "6",
+                    "measuredW": "30",
+                    "measuredH": "21",
+                    "x": "398",
+                    "y": "319",
+                    "properties": {
+                        "text": "Sexe"
+                    }
+                },
+                {
+                    "ID": "11",
+                    "typeID": "Label",
+                    "zOrder": "7",
+                    "measuredW": "42",
+                    "measuredH": "21",
+                    "x": "398",
+                    "y": "359",
+                    "properties": {
+                        "text": "Classe"
+                    }
+                },
+                {
+                    "ID": "13",
+                    "typeID": "Label",
+                    "zOrder": "8",
+                    "measuredW": "42",
+                    "measuredH": "21",
+                    "x": "398",
+                    "y": "399",
+                    "properties": {
+                        "text": "Habitat"
+                    }
+                },
+                {
+                    "ID": "15",
+                    "typeID": "Label",
+                    "zOrder": "9",
+                    "measuredW": "114",
+                    "measuredH": "21",
+                    "x": "398",
+                    "y": "439",
+                    "properties": {
+                        "text": "Temps devant l'ordi"
+                    }
+                },
+                {
+                    "ID": "16",
+                    "typeID": "TextInput",
+                    "zOrder": "10",
+                    "measuredW": "79",
+                    "measuredH": "27",
+                    "x": "549",
+                    "y": "436"
+                },
+                {
+                    "ID": "17",
+                    "typeID": "RadioButton",
+                    "zOrder": "11",
+                    "measuredW": "29",
+                    "measuredH": "23",
+                    "x": "549",
+                    "y": "318",
+                    "properties": {
+                        "text": "H"
+                    }
+                },
+                {
+                    "ID": "18",
+                    "typeID": "RadioButton",
+                    "zOrder": "12",
+                    "measuredW": "28",
+                    "measuredH": "23",
+                    "x": "594",
+                    "y": "318",
+                    "properties": {
+                        "text": "F"
+                    }
+                },
+                {
+                    "ID": "19",
+                    "typeID": "RadioButton",
+                    "zOrder": "13",
+                    "measuredW": "31",
+                    "measuredH": "23",
+                    "x": "638",
+                    "y": "318",
+                    "properties": {
+                        "text": "O"
+                    }
+                },
+                {
+                    "ID": "20",
+                    "typeID": "ComboBox",
+                    "zOrder": "14",
+                    "measuredW": "93",
+                    "measuredH": "24",
+                    "x": "549",
+                    "y": "358"
+                },
+                {
+                    "ID": "22",
+                    "typeID": "Label",
+                    "zOrder": "15",
+                    "w": "234",
+                    "measuredW": "238",
+                    "measuredH": "21",
+                    "x": "398",
+                    "y": "479",
+                    "properties": {
+                        "text": "t'es tu déjà renseigner sur les métiers?"
+                    }
+                },
+                {
+                    "ID": "23",
+                    "typeID": "RadioButton",
+                    "zOrder": "16",
+                    "measuredW": "31",
+                    "measuredH": "23",
+                    "x": "549",
+                    "y": "495",
+                    "properties": {
+                        "text": "O"
+                    }
+                },
+                {
+                    "ID": "24",
+                    "typeID": "RadioButton",
+                    "zOrder": "17",
+                    "measuredW": "29",
+                    "measuredH": "23",
+                    "x": "594",
+                    "y": "495",
+                    "properties": {
+                        "text": "N"
+                    }
+                },
+                {
+                    "ID": "25",
+                    "typeID": "Button",
+                    "zOrder": "18",
+                    "measuredW": "65",
+                    "measuredH": "27",
+                    "x": "495",
+                    "y": "570",
+                    "properties": {
+                        "text": "Valider"
+                    }
+                },
+                {
+                    "ID": "26",
+                    "typeID": "RadioButton",
+                    "zOrder": "19",
+                    "measuredW": "45",
+                    "measuredH": "23",
+                    "x": "549",
+                    "y": "398",
+                    "properties": {
+                        "text": "Ville"
+                    }
+                },
+                {
+                    "ID": "27",
+                    "typeID": "RadioButton",
+                    "zOrder": "20",
+                    "measuredW": "85",
+                    "measuredH": "23",
+                    "x": "594",
+                    "y": "398",
+                    "properties": {
+                        "text": "Campagne"
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "name": "formulaire",
+            "order": 938428.5264654435,
+            "parentID": null
+        },
+        "resourceID": "2278E287-509B-183B-1098-2EC38DDDB7D8",
+        "mockupH": "725",
+        "mockupW": "356",
+        "measuredW": "699",
+        "measuredH": "752",
+        "version": "1.0"
+    }
+}
